@@ -1,0 +1,46 @@
+{
+  "sponsors": [
+    {
+      "name": "Rutherford",
+      "perkClasses": ["Badass", "Military"],
+      "sponsorPerks": [
+        {
+          "name": "Military hardware",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
+        },
+        {
+          "name": "Well stocked",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        }
+      ]
+    },
+    {
+      "name": "Miyazaki",
+      "perkClasses": ["Daring", "Precision"],
+      "sponsorPerks": [
+        {
+          "name": "Virtuoso",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
+        },
+        {
+          "name": "Elegance",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        }
+      ]
+    },
+    {
+      "name": "Mishkin",
+      "perkClasses": ["Military", "Technology"],
+      "sponsorPerks": [
+        {
+          "name": "Thumpermonkey",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
+        },
+        {
+          "name": "Dynamo",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        }
+      ]
+    }
+  ]
+}
