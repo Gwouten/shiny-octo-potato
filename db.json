@@ -1,6 +1,7 @@
 {
   "sponsors": [
     {
+      "id": "rutherford",
       "name": "Rutherford",
       "perkClasses": ["Badass", "Military"],
       "sponsorPerks": [
@@ -15,6 +16,7 @@
       ]
     },
     {
+      "id": "miyazaki",
       "name": "Miyazaki",
       "perkClasses": ["Daring", "Precision"],
       "sponsorPerks": [
@@ -29,6 +31,7 @@
       ]
     },
     {
+      "id": "mishkin",
       "name": "Mishkin",
       "perkClasses": ["Military", "Technology"],
       "sponsorPerks": [
