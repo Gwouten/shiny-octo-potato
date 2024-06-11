@@ -42,6 +42,45 @@
         {
           "name": "Dynamo",
           "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        },
+        {
+      "id": "idris",
+      "name": "Idris",
+      "perkClasses": ["Precision", "Speed"],
+      "sponsorPerks": [
+        {
+          "name": "N2O addict",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
+        },
+        {
+          "name": "Speed Demon",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        },
+        {
+          "name": "Cult of Speed",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        }
+        {
+      "id": "slime",
+      "name": "Slime",
+      "perkClasses": ["Tuning", "Reckless"],
+      "sponsorPerks": [
+        {
+          "name": "Pinball",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
+        },
+        {
+          "name": "Spiked Fist",
+          "description": "This vehicle considers any weapon with the ammo 3 special rule to instead have the ammo 4 special rule when purchased."
+        },
+        {
+      "id": "the_warden",
+      "name": "The Warden",
+      "perkClasses": ["Agression", "Badass"],
+      "sponsorPerks": [
+        {
+          "name": "Prison Cars",
+          "description": "This team may purchase a single tank. This team may purchase a single helicopter."
         }
       ]
     }
